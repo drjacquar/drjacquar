@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drjacquar
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on Music project
+- 💞️ I’m looking to collaborate on Musical projects
 - 📫 How to reach me ...
 
 <!---
